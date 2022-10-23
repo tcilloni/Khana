@@ -1,6 +1,6 @@
 # Khana
 
-Khana is a free, easily-accessible web/phone application that allows users to share food. The main purpose of this application is to facialiate social events in a community by inviting people for  meals. Some of its main functions are:
+Khana is a free, easily-accessible web/phone application that allows users to share food. The main purpose of this application is to facialiate social events in a community by inviting people for  meals and also reduce food waste by sharing meals. Some of its main functions are:
   * Food share/Host food event
   * Food request
   * Receive tokens for sharing food
