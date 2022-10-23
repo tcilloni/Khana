@@ -1,27 +1,9 @@
 # Khana
 A Meal Sharing App
 
-### Meetings
-Zoom id- rshrest  
-Passcode-12345  
+Description//////
 
-### Tools
-- Firebase - Project ID: *khana-539ce*
-- Google Maps  
+Before runing your project, make sure to run the following commands
 
-
-
-### High level idea
-App to share meal invites.  
-
-### Methodology
-Hosts post meal invites. Clients view and accept invites paying a token. The host gets a token per accepted client.  
-
-### Extensions
-- Dietary restrictions
-- 2-way acceptance
-- Reviews
-- Chat
-- Location disclosure last minute
-- Attendance verification
-- List of past events + reviews
+flutter pub get
+flutter packages pub run build_runner build --delete-conflicting-outputs
