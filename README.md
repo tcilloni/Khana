@@ -1,6 +1,11 @@
 # Khana
 
-A new Flutter project.
+Khana is a free, easily-accessible web/phone application that allows users to share food. Some of its main functions are:
+Food share/Host food event
+Food request
+Receive tokens for sharing food
+Spend the tokens to receive food
+
 
 ## Getting Started
 
