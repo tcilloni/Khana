@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "meal",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "host_ID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "time",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

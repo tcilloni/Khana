@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463558922884-asmbp0jv137b2dv8hi26keptitugq8s7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463558922884-asmbp0jv137b2dv8hi26keptitugq8s7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463558922884-cmhd4hpi37n6nnl6eqnjjl7t42g38jhr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmxbnAqaxqJnlRbh5c2QuiijkbWJQzSgE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463558922884</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.khana</string>
+	<key>PROJECT_ID</key>
+	<string>khana-539ce</string>
+	<key>STORAGE_BUCKET</key>
+	<string>khana-539ce.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463558922884:ios:4938d2d23a166fb28ea8d1</string>
+	<key>DATABASE_URL</key>
+	<string>https://khana-539ce-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
